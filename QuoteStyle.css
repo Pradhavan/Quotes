@@ -1,0 +1,63 @@
+
+	body{
+		margin: 0px;
+		padding: 0px;
+		text-align: center;
+  		background : url('Library.png') ;
+  		background-repeat: no-repeat;
+  		background-size: cover;
+		}
+	
+	#heading{
+		border: 3px solid white;
+		height:20px;
+		width: 50%;
+		background-color: black;
+		color: aliceblue;
+		word-wrap:normal;
+		padding: 20px;
+		border-radius: 8px;
+		margin: 50px auto 50px auto;
+		text-align: center;
+		font-size: 15px;
+	}
+	
+	#QuoteBox{
+		border: 10px,solid,white;
+		height:300px;
+		width: 70%;
+		background-color: white;
+		color: black;
+		border-radius: 10px;
+		margin: 25px auto 25px auto;
+		text-align: center;
+		font-size: 15px;
+		padding: 30px 20px 20px 20px;
+	
+		}
+	#Quote{
+		margin: auto;
+		text-align: center;
+		line-height: 1.8;
+		text-transform: uppercase;
+		}
+	
+	#QuoteMaster{
+		color:crimson;
+		font-family:Brush Script MT, Brush Script Std, cursive;
+		font-size: 40px;
+	}
+	
+	#BTNN{border:10px,solid,red;
+		height:25px;
+		width: 100px;
+		background-color: black;
+		color: aliceblue;
+		border-radius: 5px;
+		margin: auto;
+		margin-top: 20px;
+		text-align: center;
+		font-size: 15px;
+		}
+	  
+	  
